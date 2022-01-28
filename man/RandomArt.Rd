@@ -5,7 +5,7 @@
 make_art()
 }
 \description{
-Creates beautiful art. Takes some number as input which is used as random seed
+Creates beautiful art. Takes some number as input which is used as random seed.
 }
 \examples{
 make_art(123)
